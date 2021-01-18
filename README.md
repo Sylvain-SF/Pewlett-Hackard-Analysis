@@ -12,16 +12,16 @@ We helped the company re-organized it to discover trends to answer our problemat
 This analysis gave us insights on four major points:<br>
 
 - We determined from the database whose employees born between 1952 and 1955 and about to reach retirement age.<br>
-![](Data/retirement_titles.PNG)
+![](Images/retirement_titles.PNG)
 
 - We learned that there were duplicate employees who switch title during their time in the company, then we filtered the previous table to get their latest job title.<br>
-![](Data/unique_title.PNG)
+![](Images/unique_title.PNG)
 
 - We established the number of employees about to retire per department based on their latest job title.<br>
-![](Data/retiring_titles.PNG)
+![](Images/retiring_titles.PNG)
 
 - We could then get employees who were still currently working in the company and based on their birth-date (between January-01-1965 and December-31-1965), we determined if they could be part of a mentorship program.<br>
-![](Data/mentorship_eligibilty.PNG)
+![](Images/mentorship_eligibilty.PNG)
 
 # Summary:
 
@@ -29,7 +29,7 @@ After re-organizing the department database based on employees reaching the reti
 
 - The company will be needed 90,396 new roles due to numbers of retirement all department included.
 - There were 1,549 employees eligible for a mentorship program.<br>
-![](Data/mentorship_count.PNG)<br>
+![](Images/mentorship_count.PNG)<br>
 Based on this analysis, we established that there is not enough retirement-ready employees to mentor the next generation, based on the number of employees about to leave their function.<br>
 More particularly for the technique-leader and assistant-engineer departments. And most important there was none for the manager departments.
 
