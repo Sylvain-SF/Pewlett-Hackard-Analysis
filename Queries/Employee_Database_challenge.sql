@@ -69,8 +69,3 @@ SELECT * FROM mentorship_eligibilty ;
 --FROM mentorship_eligibilty
 --GROUP BY title
 --ORDER BY count DESC;
-
-	
-	
-
-

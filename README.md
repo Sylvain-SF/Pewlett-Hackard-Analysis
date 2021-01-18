@@ -1,7 +1,8 @@
-# Overview Of Project:
+# Overview of Project:
  
-As many employees were about to reach retirement age, we have been tasked by Pewlett-Hackard to help prevent an upcoming 'Silver Tsunami'.<br> 
-As now, the database organisation could not provide the desired insights and we helped the company re-organized it to discover trends to answer our problematic.<br>
+As many employees were about to reach retirement age, we have been tasked by Pewlett-Hackard to help prevent an upcoming 'Silver Tsunami' and defined which employees could integrate a mentorship program.<br> 
+As now, the company database could not provide the desired insights.<br>
+We helped the company re-organized it to discover trends to answer our problematic.<br>
 - We determined the number of retiring employees based on their title.
 - We identified employees about to retire, eligible for a mentorship program.<br>
 
@@ -13,7 +14,7 @@ This analysis gave us insights on four major points:<br>
 - We determined from the database whose employees born between 1952 and 1955 and about to reach retirement age.<br>
 ![](Data/retirement_titles.PNG)
 
-- We learned that some employees change title during their time in the company, then we filtered the previous table to get their latest job title.<br
+- We learned that there were duplicate employees who switch title during their time in the company, then we filtered the previous table to get their latest job title.<br>
 ![](Data/unique_title.PNG)
 
 - We established the number of employees about to retire per department based on their latest job title.<br>
@@ -34,8 +35,8 @@ More particularly for the technique-leader and assistant-engineer departments. A
 
 We could get more insights about the upcoming 'Silver-Tsunami' creating other tables:
 
-- Filtering the database based on seniority in departments to get employees with experience able to get into the mentorship program.
--  
+- Filtering the database based on the employees age to get more prevision on the upcoming retirement wave and not just about whose who already reached it and in fact be able to hire new employee in needed departments.
+- Built an other query to determine employees who are not reaching the retirement age, but who have been in the company at a senior level long enough to integrate the mentorship program. 
 
 
 
