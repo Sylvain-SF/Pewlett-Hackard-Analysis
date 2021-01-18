@@ -64,6 +64,12 @@ ORDER BY count ;
 
 SELECT * FROM mentorship_eligibilty ;
 
+--SELECT * FROM mentorship_eligibilty ;
+--SELECT COUNT(emp_no), title 
+--FROM mentorship_eligibilty
+--GROUP BY title
+--ORDER BY count DESC;
+
 	
 	
 
